@@ -1,2 +1,3 @@
 # HWIDBurner-UE-
 Lost src code when I reset my pc lol but for some reason I only put the driver on google drive...
+Dont use on any major games although it still bypasses.
